@@ -1,0 +1,228 @@
+{
+  "span": {
+    "first": "2023-05-18T13:31:00",
+    "last": "2026-08-05T05:54:00"
+  },
+  "total_messages": 195683,
+  "per_sender": {
+    "Amor ❤️💍": {
+      "messages": 95536,
+      "words": 307717,
+      "first_message": "JAJAJAJAJAJAJA"
+    },
+    "Silva": {
+      "messages": 69599,
+      "words": 368514,
+      "first_message": "ELIIIII cambié de celuco, rotame ahí los stickers que le hice a ud ahí de buena fé"
+    }
+  },
+  "media_per_sender": {
+    "Amor ❤️💍": 20156,
+    "Silva": 10362
+  },
+  "top_emojis": [
+    {
+      "emoji": "😔",
+      "count": 345
+    },
+    {
+      "emoji": "🥺",
+      "count": 226
+    },
+    {
+      "emoji": "😭",
+      "count": 97
+    },
+    {
+      "emoji": "😡",
+      "count": 91
+    },
+    {
+      "emoji": "😍",
+      "count": 85
+    },
+    {
+      "emoji": "❤",
+      "count": 70
+    },
+    {
+      "emoji": "😏",
+      "count": 57
+    },
+    {
+      "emoji": "😈",
+      "count": 57
+    },
+    {
+      "emoji": "😎",
+      "count": 48
+    },
+    {
+      "emoji": "♥",
+      "count": 45
+    },
+    {
+      "emoji": "🥰",
+      "count": 45
+    },
+    {
+      "emoji": "🤷",
+      "count": 37
+    },
+    {
+      "emoji": "✔",
+      "count": 25
+    },
+    {
+      "emoji": "😁",
+      "count": 24
+    },
+    {
+      "emoji": "🫶",
+      "count": 23
+    }
+  ],
+  "hours": [
+    {
+      "hour": 0,
+      "count": 9445
+    },
+    {
+      "hour": 1,
+      "count": 8925
+    },
+    {
+      "hour": 2,
+      "count": 6356
+    },
+    {
+      "hour": 3,
+      "count": 5545
+    },
+    {
+      "hour": 4,
+      "count": 6207
+    },
+    {
+      "hour": 5,
+      "count": 6550
+    },
+    {
+      "hour": 6,
+      "count": 5692
+    },
+    {
+      "hour": 7,
+      "count": 4419
+    },
+    {
+      "hour": 8,
+      "count": 3108
+    },
+    {
+      "hour": 9,
+      "count": 2485
+    },
+    {
+      "hour": 10,
+      "count": 3203
+    },
+    {
+      "hour": 11,
+      "count": 2633
+    },
+    {
+      "hour": 12,
+      "count": 4249
+    },
+    {
+      "hour": 13,
+      "count": 5353
+    },
+    {
+      "hour": 14,
+      "count": 5915
+    },
+    {
+      "hour": 15,
+      "count": 7102
+    },
+    {
+      "hour": 16,
+      "count": 8060
+    },
+    {
+      "hour": 17,
+      "count": 8534
+    },
+    {
+      "hour": 18,
+      "count": 9314
+    },
+    {
+      "hour": 19,
+      "count": 10767
+    },
+    {
+      "hour": 20,
+      "count": 10902
+    },
+    {
+      "hour": 21,
+      "count": 10413
+    },
+    {
+      "hour": 22,
+      "count": 9306
+    },
+    {
+      "hour": 23,
+      "count": 10652
+    }
+  ],
+  "weekdays": [
+    {
+      "weekday": 0,
+      "count": 23677
+    },
+    {
+      "weekday": 1,
+      "count": 24806
+    },
+    {
+      "weekday": 2,
+      "count": 24241
+    },
+    {
+      "weekday": 3,
+      "count": 20787
+    },
+    {
+      "weekday": 4,
+      "count": 23566
+    },
+    {
+      "weekday": 5,
+      "count": 24549
+    },
+    {
+      "weekday": 6,
+      "count": 23509
+    }
+  ],
+  "longest_streak_days": 238,
+  "top_day": {
+    "date": "2024-10-02",
+    "messages": 1461
+  },
+  "te_quiero": {
+    "Amor ❤️💍": 44,
+    "Silva": 77
+  },
+  "te_amo": {
+    "Amor ❤️💍": 1642,
+    "Silva": 1598
+  },
+  "days_with_messages": 1039,
+  "msgs_per_day": 188.3
+}

@@ -1,3 +1,5 @@
 # Datos crudos de conversaciones (privados — el repo es público)
 WhatsApp Chat*.txt
 data/
+# Dataset canónico (texto completo de los mensajes) — no subir
+messages.csv
